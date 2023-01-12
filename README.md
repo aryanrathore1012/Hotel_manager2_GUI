@@ -34,6 +34,11 @@ THE PROGRAM SHOWS THE CUSTOMER WELCOME AND GOODBEY MSGS WHEN A CUSTOMER CHECKINS
 
 ![image](https://user-images.githubusercontent.com/91218998/212023416-a3430d9c-38ff-4f3f-ab28-8673d169ec97.png)
 
+CAN SHOW CUSTOMERS, ROOMS, BOOKINGS DETAILS
+
+![image](https://user-images.githubusercontent.com/91218998/212024470-a2c3cc3b-5ef1-4a3e-b654-b9c306f4acbe.png)
+
+![image](https://user-images.githubusercontent.com/91218998/212024618-eaf750db-b07e-4e5e-b740-8ed2b9b82378.png)
 
 FEATURES :-
 
