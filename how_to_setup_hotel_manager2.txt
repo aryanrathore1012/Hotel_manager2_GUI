@@ -1,23 +1,25 @@
 # hotel_manager2
 
  ---- THIS PROJECT IS FREE AND OPEN SOURCE IF YOU ARE A COLLAGE STUDENT FEEL FREE TO USE MY CODE FOR YOUR ASSINGEMNTS AND ADD MORE TO THIS ----
-                                 ---- MADE BY ARYAN RATHORE +91-9685071745, aryanrathore13572002@gmail.com ----
+         ---- MADE BY ARYAN RATHORE LINKEDIN-https://www.linkedin.com/in/aryan-rathore-b15459215/ , aryanrathore13572002@gmail.com ----
 
 I HAVE MADE A DEMO VIDEO OF THE PROJECT WHICH IS UPLOADED TO THE REPOSITORY MAKE SURE YOU WATCH IT FIRST
 
 HOW TO SETUP THE hotel_manager2 :-
 
 IMPORTANT
+0. WATCH THE DEMO VIDEO THE MANAGERS PASSWORD IS AS FOLLOWS :- USERNAME = 1, PASSWORD = 1
+
 1. IMPORT THE MYSQL DATABASE NAMED hotel_database
 
-2. there are 2 text files that keep the track of the following info:-
+2. there is 1 text file and 15 PNGs that keep the track of the following info:-
 
 2A. BILLS.TXT this file keeps track of the when a user is checking in or out with this it also keeps their booking information if the manager needs
 
-2B. MANAGER_LOGINS.TXT this file keeps track of who is logging into the system at what date and time.
+2B. PNGs that are images in the windows
 
 MOST_IMPORTANT
-3. now that you have imported the database there is only 1 thing you need to do that is TO CHACNGE THE FILE PATH OF BILLS.TXT AND MANAGER_LOGINS.TXT in your hotel_manager python file i have mentioned in the comments which which functions will require a file path change and what functions use them.
+3. now that you have imported the database there is only 1 thing you need to do that is TO CHACNGE THE FILE PATH OF BILLS.TXT AND 51 PNGs in your hotel_manager python file i have mentioned in the comments which which functions will require a file path change and what functions use them.
 
 4. after importing the database and changing the file paths you are all set and done.
 
@@ -63,3 +65,4 @@ The system may also use Python to process the data from the database and present
 2. MYSQL:-
 
 The system may use MySQL as the database to store the data. MySQL is a popular open-source relational database management system that is widely used in the hospitality industry. It allows for efficient storage and retrieval of data and offers robust security features to protect sensitive information.
+
